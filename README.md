@@ -4,22 +4,15 @@
 
 A simple Tailwind CSS plugin that displays the active breakpoint in a floating badge.
 
-Tailwindcss Breakpoint Badge uses the values defined in `theme.screens` to generate the labels, and does nothing if no screens are configured.\
-Will be disabled automatically when `NODE_ENV === "production"`,
+It uses the values defined in `theme.screens` to generate the labels, quietly does nothing if no screens are configured, and is automatically disabled when `NODE_ENV === "production"`.
 
 ## Install
-
-Install from GitHub:
-
-```bash
-npm install github:YOUR_GITHUB_USERNAME/tailwindcss-breakpoint-badge
-```
-
-Later, if you publish to npm:
 
 ```bash
 npm install tailwindcss-breakpoint-badge
 ```
+
+Package: [tailwindcss-breakpoint-badge](https://www.npmjs.com/package/tailwindcss-breakpoint-badge)
 
 ## Usage
 
