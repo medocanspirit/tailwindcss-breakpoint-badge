@@ -1,0 +1,21 @@
+{
+  "author": {
+    "name": "Medocan Spirit"
+  },
+  "description": "A simple Tailwind CSS plugin that displays the active breakpoint in a floating badge.",
+  "keywords": [
+    "tailwindcss",
+    "tailwind",
+    "plugin",
+    "breakpoint",
+    "debug",
+    "responsive"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "tailwindcss-breakpoint-badge",
+  "peerDependencies": {
+    "tailwindcss": "^3.0.0 || ^4.0.0"
+  },
+  "version": "0.1.0"
+}
