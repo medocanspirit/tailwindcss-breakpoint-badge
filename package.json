@@ -14,6 +14,7 @@
   "license": "MIT",
   "main": "index.js",
   "name": "tailwindcss-breakpoint-badge",
+  "types": "index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/medocanspirit/tailwindcss-breakpoint-badge.git"
@@ -25,5 +26,5 @@
   "peerDependencies": {
     "tailwindcss": "^3.0.0 || ^4.0.0"
   },
-  "version": "0.1.1"
+  "version": "0.1.2"
 }
